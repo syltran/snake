@@ -9,4 +9,4 @@ Créer notre version du Snake, un jeu dans lequel un serpent est contrôlé et q
 Le jeu est réalisé en python avec la bibliothèque graphique de l'UGE fltk.
 
 **Documentation Technique et Utilisateur :**  
-Voir le fichier `rapport.pdf`
+Voir le fichier [rapport.pdf](https://github.com/syltran/snake/blob/master/rapport.pdf)
